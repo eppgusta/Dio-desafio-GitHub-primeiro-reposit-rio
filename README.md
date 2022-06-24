@@ -1,7 +1,7 @@
 # Dio-desafio-GitHub-primeiro-repositório
-Dio-challenge-GitHub-firt-repository
-
 Desafio de projeto sobre Git/GitHub
+
+Dio-challenge-GitHub-firt-repositor
 
 
  Sejam todos bem-vindos ao meu perfil!!!
